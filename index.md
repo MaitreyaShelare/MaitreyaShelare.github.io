@@ -1,11 +1,11 @@
-[![GitHub Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=github&logoColor=000000&link=https://github.com/Maitreya001?tab=followers)](https://github.com/Maitreya001?tab=followers)
-[![Follower Count](https://img.shields.io/github/followers/Maitreya001?label=Followers&color=dc5cc4&style=flat)](https://github.com/Maitreya001?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Maitreya001&color=dc5cc4&style=flat)](https://github.com/Maitreya001) <br>
+[![GitHub Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=github&logoColor=000000&link=https://github.com/MaitreyaShelare?tab=followers)](https://github.com/MaitreyaShelare?tab=followers)
+[![Follower Count](https://img.shields.io/github/followers/MaitreyaShelare?label=Followers&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Maitreya001&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare) <br>
 [![Twitter Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=twitter&link=https://twitter.com/maitreyashelare)](https://twitter.com/maitreyashelare)
 [![Linkedin Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Linkedin&logoColor=0072b1&link=https://www.linkedin.com/in/maitreyashelare)](www.linkedin.com/in/maitreyashelare)
 
 <h1 align="center"> <br>
-  <img src="https://github.com/Maitreya001/Maitreya001/blob/main/GIF/Hi%20emoji.gif" width="29px"/>
+  <img src="/GIF/Hi%20emoji.gif" width="29px"/>
   Greetings , I am Maitreya.
 </h1>
 
@@ -34,15 +34,15 @@
 
 <table>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maitreya001&show_icons=true&theme=jolly" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maitreya001&theme=jolly" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaitreyaShelare&show_icons=true&theme=jolly" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreyaShelare&theme=jolly" />
     <details align="center">
    <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
         <img alt="My GitHub Metrics"
-                src="https://metrics.lecoq.io/Maitreya001?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta" />
+                src="https://metrics.lecoq.io/MaitreyaShelare?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta" />
         <br>
     </p>
 </details>
