@@ -31,7 +31,7 @@
   </td>
 </table> <br>
 
-## My GitHub Statistics:
+## My GitHub Statistics
 
 <table>
   <p align="center">
@@ -70,8 +70,15 @@
  <a> <img src="/IMG/Python.svg" width="50px"/></a>
  <a> <img src="/IMG/R.svg" width="50px"></a>
  
- </p>
+ </p> <br>
+ 
+## My Hobbies
 
+<table>
+  <td>
+    👟 Track and Field Athlete. <br>
+    🎹 Self-Taught Pianist. <br>
+</table> <br>
 
 
 
