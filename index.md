@@ -6,7 +6,7 @@
 
 <h1 align="center"> <br>
   <img src="/GIF/Hi%20emoji.gif" width="29px"/>
-  Greetings , I am Maitreya.
+  Greetings ,I am Maitreya.
 </h1>
 
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
@@ -53,7 +53,7 @@
 
 <br>
 <p>
-<h2> Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px</h2><br>
+<h2>Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px</h2><br>
  
  <a> <img src="/IMG/C.svg" width="40px"></a>
  <a> <img src="/IMG/C%2B%2B.svg" width="40px"> </a> 
