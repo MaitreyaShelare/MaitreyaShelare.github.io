@@ -6,12 +6,12 @@
 
 <h1 align="center"> <br>
   <img src="/GIF/Hi%20emoji.gif" width="29px"/>
-  Greetings ,I am Maitreya.
+  Greetings, I am Maitreya Shelare.
 </h1>
 
 [![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-## 📝 Educational Qualification
+## 📝 My Educational Qualification
 <table align="center">
   <td>
     👨🏻‍🎓 Pursuing Machine Learning Engineer Path from Google Cloud. <br>
@@ -21,7 +21,7 @@
   </td>
 </table> <br>
 
-## 👨🏻‍💼 Work Experience
+## 👨🏻‍💼 My Work Experience
 <table align="center">
   <td>
     👨🏻‍💻 IIT Hackathon Auditorium Coordinator at PanIIT Alumni India. <br>
