@@ -78,6 +78,7 @@
   <td>
     👟 Track and Field Athlete. <br>
     🎹 Self-Taught Pianist. <br>
+  </td>  
 </table> <br>
 
 
