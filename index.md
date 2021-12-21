@@ -9,7 +9,7 @@
   Greetings, I am Maitreya Shelare.
 </h1>
 
-[![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%23dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Welcome SVG](http://readme-typing-svg.herokuapp.com?color=%43dc5cc4&size=36&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## 📝 My Educational Qualification
 <table align="center">
