@@ -53,6 +53,12 @@
 
 <br>
 <p>
+<h2> <br>
+  Skills & Tools
+  <img src="/GIF/Skills.gif" width="29px"/>
+  
+</h2>  
+
 <h2>Skills & Tools<img src="/GIF/Skills.gif" width=32px</h2><br>
  
  <a> <img src="/IMG/C.svg" width="40px"></a>
