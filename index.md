@@ -34,8 +34,8 @@
 
 <table>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaitreyaShelare&show_icons=true&theme=jolly" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreyaShelare&theme=jolly" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaitreyaShelare&show_icons=true&theme=vue" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaitreyaShelare&theme=vue" />
     <details align="center">
    <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
