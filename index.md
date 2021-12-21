@@ -4,6 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Maitreya001&color=dc5cc4&style=flat)](https://github.com/MaitreyaShelare) 
 [![Twitter Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?&style=flat&logo=twitter&link=https://twitter.com/maitreyashelare)](https://twitter.com/maitreyashelare)
 [![Linkedin Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Linkedin&logoColor=0072b1&link=https://www.linkedin.com/in/maitreyashelare)](www.linkedin.com/in/maitreyashelare)
+[![Gmail Badge](https://img.shields.io/badge/-MaitreyaShelare-FFFFFF?style=flat&logo=Gmail&link=mailto:hawthronen@gmail.com)](mailto:hawthronen@gmail.com)
 
 <h1 align="center"> <br>
   <img src="/GIF/Hi%20emoji.gif" width="29px"/>
