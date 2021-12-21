@@ -59,7 +59,7 @@
   
 </h2>  
 
-<h2>Skills & Tools<img src="/GIF/Skills.gif" width=32px</h2><br>
+
  
  <a> <img src="/IMG/C.svg" width="40px"></a>
  <a> <img src="/IMG/C%2B%2B.svg" width="40px"> </a> 
