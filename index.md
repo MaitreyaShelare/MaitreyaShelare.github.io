@@ -61,13 +61,13 @@
 
 
  
- <a> <img src="/IMG/C.svg" width="40px"></a>
- <a> <img src="/IMG/C%2B%2B.svg" width="40px"> </a> 
- <a> <img src="/IMG/Google%20Cloud.svg" width="40px"/></a>
- <a> <img src="/IMG/HTML-5.svg" width="40px"/></a>
- <a> <img src="/IMG/Java.svg" width="40px"/></a>
- <a> <img src="/IMG/Python.svg" width="40px"/></a>
- <a> <img src="/IMG/R.svg" width="40px"></a>
+ <a> <img src="/IMG/C.svg" width="50px"></a>
+ <a> <img src="/IMG/C%2B%2B.svg" width="50px"> </a> 
+ <a> <img src="/IMG/Google%20Cloud.svg" width="50px"/></a>
+ <a> <img src="/IMG/HTML-5.svg" width="50px"/></a>
+ <a> <img src="/IMG/Java.svg" width="50px"/></a>
+ <a> <img src="/IMG/Python.svg" width="50px"/></a>
+ <a> <img src="/IMG/R.svg" width="50px"></a>
  
  </p>
 
